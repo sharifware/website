@@ -1,0 +1,12 @@
+<div class= "mainContainer">
+<slot/>
+</div>
+<style>
+    .mainContainer{
+        background-color: #0a3b99;
+        color: white;
+        position: relative;
+    }
+</style>
+
+
